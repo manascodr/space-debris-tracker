@@ -1,0 +1,16 @@
+{
+  "satellites": [
+    {"id":"00900","name":"CALSPHERE 1","lat":10,"lon":40,"alt":500},
+    {"id":"00902","name":"CALSPHERE 2","lat":15,"lon":50,"alt":520},
+    {"id":"01512","name":"TEMPSAT 1","lat":20,"lon":60,"alt":540},
+    {"id":"02826","name":"OPS 5712 (P/L 160)","lat":25,"lon":70,"alt":560},
+    {"id":"07530","name":"OSCAR 7 (AO-7)","lat":30,"lon":80,"alt":580}
+  ],
+  "debris": [
+    {"id":"49537","name":"COSMOS 1408 DEB A","lat":12,"lon":42,"alt":505},
+    {"id":"50032","name":"COSMOS 1408 DEB B","lat":18,"lon":51,"alt":520},
+    {"id":"50058","name":"COSMOS 1408 DEB C","lat":24,"lon":60,"alt":535},
+    {"id":"50404","name":"COSMOS 1408 DEB D","lat":30,"lon":69,"alt":550},
+    {"id":"50621","name":"COSMOS 1408 DEB E","lat":36,"lon":78,"alt":565}
+  ]
+}
